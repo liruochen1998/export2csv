@@ -1,5 +1,5 @@
 {
-  "name": "array2csv",
+  "name": "so-csv",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
