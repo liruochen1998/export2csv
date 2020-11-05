@@ -24,4 +24,5 @@ export2csv(param1); // it will download the csv in browser.
 - [ ] exporting to a specific file name
 - [ ] taking other data type as input
 - [ ] being able to pass in rows and columns
+- [ ] cross-platform compatibility
 
