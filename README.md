@@ -3,7 +3,7 @@
 This is a lightweight npm package for exporting JS arrays to csv for web apps
 
 ## Installation
-`npm install so-csv`
+`npm install so-csv`    
 then import the function utilities that you need.
 
 ## Utilities
@@ -18,3 +18,10 @@ E.g.  param1 = [
 */
 export2csv(param1); // it will download the csv in browser.
 ```
+
+## TODO
+- [ ] TODO
+- [ ] exporting to a specific file name
+- [ ] taking other data type as input
+- [ ] being able to pass in rows and columns
+
