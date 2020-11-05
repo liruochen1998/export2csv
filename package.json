@@ -9,5 +9,6 @@
   "keywords": ["csv", "export", "array", "download"],
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/liruochen1998/export2csv"
 }
